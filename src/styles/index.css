@@ -1,0 +1,12 @@
+/**
+* ! Style rules for section-1
+**/
+.section-1-left--text {
+font-size: var(--body);
+  font-family: var(--font-2);
+  color: var(--color-white-75);
+}
+.section-1-left--btn {
+    align-self: self-start;
+}
+/* 2.02.52 */
