@@ -9,4 +9,17 @@ font-size: var(--body);
 .section-1-left--btn {
     align-self: self-start;
 }
-/* 2.02.52 */
+
+.section-2__logo{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+
+}
+.section-2__logo img{
+  justify-self: center;
+  align-self: center;
+}
+
+.section-2__btn{
+  justify-self: center;
+}
